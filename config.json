@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "",
+		"description": "Author:Toulon,Category:Personal Blog",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "Toulon",
+		"subtitle": "Front back left right end engineer",
+		"enter": "enter",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "Toulon",
+		"signature": "Code & Input & Output",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://yumaster.cnblogs.com",
+				"icon": "bokeyuan",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "http://yumaster.net/tools/miku/",
+				"icon": "xiaolian",
+				"text": "Miku"
+			},
+			"third": {
+				"href": "mailto://yumaster@yeah.net",
+				"icon": "email",
+				"text": "Email"
+			},
+			"fourth": {
+				"href": "https://github.com/yumaster",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
