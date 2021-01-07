@@ -1,13 +1,13 @@
 {
 	"head": {
 		"title": "",
-		"description": "Author:Toulon,Category:Personal Blog",
+		"description": "Author:Toulon,Category:Main Entrance",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
 		"title": "Toulon",
-		"subtitle": "Front back left right end engineer",
-		"enter": "enter",
+		"subtitle": "Fish,Talk And Listen To Music",
+		"enter": "Let Go",
 		"supportAuthor": true,
 		"background": true
 	},
@@ -31,7 +31,7 @@
 				"text": "Miku"
 			},
 			"third": {
-				"href": "mailto://yumaster@yeah.net",
+				"href": "https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=yumaster@yeah.net",
 				"icon": "email",
 				"text": "Email"
 			},
